@@ -1,0 +1,16 @@
+[21-May-2025 08:56:20 UTC] Admin login attempt - Email: admin@petitsgenies.fr
+[21-May-2025 08:56:20 UTC] Admin login attempt - Password length: 9
+[21-May-2025 08:56:20 UTC] Admin database query result: Admin found
+[21-May-2025 08:56:20 UTC] Stored password hash: $2y$10$WKKh5NVu/vjO.yChxh7oDOkZjQxy9zALAYarSHgb5glak1GxdOgTi
+[21-May-2025 08:56:20 UTC] Attempting to verify password
+[21-May-2025 08:56:20 UTC] Password verification result: Success
+[21-May-2025 08:56:20 UTC] Admin password verified successfully
+[21-May-2025 08:56:20 UTC] Session variables set - Redirecting to dashboard
+[21-May-2025 08:58:35 UTC] Admin login attempt - Email: admin@petitsgenies.fr
+[21-May-2025 08:58:35 UTC] Admin login attempt - Password length: 9
+[21-May-2025 08:58:35 UTC] Admin database query result: Admin found
+[21-May-2025 08:58:35 UTC] Stored password hash: $2y$10$WKKh5NVu/vjO.yChxh7oDOkZjQxy9zALAYarSHgb5glak1GxdOgTi
+[21-May-2025 08:58:35 UTC] Attempting to verify password
+[21-May-2025 08:58:35 UTC] Password verification result: Success
+[21-May-2025 08:58:35 UTC] Admin password verified successfully
+[21-May-2025 08:58:35 UTC] Session variables set - Redirecting to dashboard
